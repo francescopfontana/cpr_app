@@ -1,7 +1,7 @@
 ## CPR App
 The primary goal of CPR App is to offer a user-friendly and accessible tool for individuals who may need to perform CPR on different age groups (adults, children, and infants). The app is not intended for professional training but rather as a support tool to help users recall essential CPR steps when needed.
 
-### Current Implementations
+## Current Implementations
 The app has been developed using Flutter, making it cross-platform (iOS and Android). Key features implemented so far include:
 
 ### Home Screen with Navigation
@@ -19,7 +19,7 @@ Each category screen clearly displays the selected CPR type.
 A button to start CPR is present (action to be implemented in the future).
 Below the button, a short description explains the age range covered by the selected category, with key terms highlighted in bold.
 
-### Future Enhancements (Planned)
+## Future Enhancements (Planned)
 
 - Emergency audio guidance to assist users during the CPR process.
 - Customization options for adjusting text size, brightness, and audio settings.
@@ -27,7 +27,7 @@ Below the button, a short description explains the age range covered by the sele
 - Step-by-step CPR instructions with animations or images to guide users visually.
 
 
-### Technical Aspects
+## Technical Aspects
 
 **Framework**: Flutter (Dart)
 **Dependencies Used**:
